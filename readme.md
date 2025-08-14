@@ -36,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satwikloka&show_icons=true&locale=en&layout=compact" alt="satwikloka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satwikloka&show_icons=true&locale=en" alt="satwikloka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satwikloka&" alt="satwikloka" /></p>
